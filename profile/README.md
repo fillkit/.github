@@ -211,8 +211,6 @@ The FillKit browser extension will provide:
 
 <div align="center">
 
-**Made with ❤️ by [Justin Dah-kenangnon](https://github.com/justindahdah)**
-
 [⭐ Star on GitHub](https://github.com/fillkit/sdk) • [📖 Read the Docs](https://fillkit.dev/docs) • [🚀 Get Started](https://fillkit.dev)
 
 </div>
