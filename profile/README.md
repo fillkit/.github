@@ -49,7 +49,7 @@ await fk.autofillAll();
 
 ### Browser Extension
 
-Install from the [Chrome Web Store](https://chrome.google.com/webstore/detail/fillkit/) or [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/fillkit/), then press `Ctrl+Shift+K` on any page with forms.
+Install from the [Chrome Web Store](https://chromewebstore.google.com/detail/fillkit/lajjifnmncbjbdkcakmbikjanofilmld) or [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/fillkit), then press `Ctrl+Shift+K` on any page with forms.
 
 | Shortcut | Action |
 | -------- | ------ |
@@ -57,10 +57,6 @@ Install from the [Chrome Web Store](https://chrome.google.com/webstore/detail/fi
 | `Alt+K` | Fill current form |
 | `Ctrl+Shift+L` | Clear all filled data |
 | `Alt+H` | Show/hide widget |
-
-## Docs
-
-Full API reference, configuration options, and framework guides at [fillkit.dev/docs](https://fillkit.dev/docs) (coming soon).
 
 ## Intended Use
 
@@ -72,4 +68,4 @@ FillKit operates entirely on your device by default. No form data is collected o
 
 ## License
 
-[MIT](https://github.com/fillkit/sdk/blob/main/LICENSE)
+Released under the [MIT License](https://github.com/fillkit/sdk/blob/main/LICENSE)
